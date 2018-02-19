@@ -1,0 +1,1 @@
+@"c:\users\p.s.ramesh\envs\dj1.11\scripts\python.exe" "c:\users\p.s.ramesh\envs\dj1.11\Scripts\markdown_py" %*
